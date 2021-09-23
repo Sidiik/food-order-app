@@ -1,0 +1,10 @@
+.title {
+  text-align: center;
+}
+.item {
+  border-bottom: 1px solid brown;
+  padding: 1rem;
+}
+.price {
+  color: brown;
+}
